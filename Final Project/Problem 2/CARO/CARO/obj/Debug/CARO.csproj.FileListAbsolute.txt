@@ -1,0 +1,30 @@
+E:\CODE LUCY\CNTT\Năm 2\Hk1\OOP\PROJECT\CARO\CARO\bin\Debug\CARO.exe.config
+E:\CODE LUCY\CNTT\Năm 2\Hk1\OOP\PROJECT\CARO\CARO\bin\Debug\CARO.exe
+E:\CODE LUCY\CNTT\Năm 2\Hk1\OOP\PROJECT\CARO\CARO\bin\Debug\CARO.pdb
+E:\CODE LUCY\CNTT\Năm 2\Hk1\OOP\PROJECT\CARO\CARO\obj\Debug\CARO.Properties.Resources.resources
+E:\CODE LUCY\CNTT\Năm 2\Hk1\OOP\PROJECT\CARO\CARO\obj\Debug\CARO.csproj.GenerateResource.cache
+E:\CODE LUCY\CNTT\Năm 2\Hk1\OOP\PROJECT\CARO\CARO\obj\Debug\CARO.csproj.CoreCompileInputs.cache
+E:\CODE LUCY\CNTT\Năm 2\Hk1\OOP\PROJECT\CARO\CARO\obj\Debug\CARO.exe
+E:\CODE LUCY\CNTT\Năm 2\Hk1\OOP\PROJECT\CARO\CARO\obj\Debug\CARO.pdb
+E:\CODE LUCY\CNTT\Năm 2\Hk1\OOP\PROJECT\CARO\CARO\obj\Debug\CARO.Form1.resources
+E:\CODE LUCY\CNTT\Năm 2\Hk1\OOP\PROJECT\CARO\CARO\obj\Debug\CARO.csprojAssemblyReference.cache
+E:\PROJECT\CARO\CARO\bin\Debug\CARO.exe.config
+E:\PROJECT\CARO\CARO\bin\Debug\CARO.exe
+E:\PROJECT\CARO\CARO\bin\Debug\CARO.pdb
+E:\PROJECT\CARO\CARO\obj\Debug\CARO.csprojResolveAssemblyReference.cache
+E:\PROJECT\CARO\CARO\obj\Debug\CARO.Form1.resources
+E:\PROJECT\CARO\CARO\obj\Debug\CARO.Properties.Resources.resources
+E:\PROJECT\CARO\CARO\obj\Debug\CARO.csproj.GenerateResource.cache
+E:\PROJECT\CARO\CARO\obj\Debug\CARO.csproj.CoreCompileInputs.cache
+E:\PROJECT\CARO\CARO\obj\Debug\CARO.exe
+E:\PROJECT\CARO\CARO\obj\Debug\CARO.pdb
+C:\Users\dokim\OneDrive\Máy tính\Final Project\Problem 2\CARO\CARO\bin\Debug\CARO.exe.config
+C:\Users\dokim\OneDrive\Máy tính\Final Project\Problem 2\CARO\CARO\bin\Debug\CARO.exe
+C:\Users\dokim\OneDrive\Máy tính\Final Project\Problem 2\CARO\CARO\bin\Debug\CARO.pdb
+C:\Users\dokim\OneDrive\Máy tính\Final Project\Problem 2\CARO\CARO\obj\Debug\CARO.csprojAssemblyReference.cache
+C:\Users\dokim\OneDrive\Máy tính\Final Project\Problem 2\CARO\CARO\obj\Debug\CARO.Form1.resources
+C:\Users\dokim\OneDrive\Máy tính\Final Project\Problem 2\CARO\CARO\obj\Debug\CARO.Properties.Resources.resources
+C:\Users\dokim\OneDrive\Máy tính\Final Project\Problem 2\CARO\CARO\obj\Debug\CARO.csproj.GenerateResource.cache
+C:\Users\dokim\OneDrive\Máy tính\Final Project\Problem 2\CARO\CARO\obj\Debug\CARO.csproj.CoreCompileInputs.cache
+C:\Users\dokim\OneDrive\Máy tính\Final Project\Problem 2\CARO\CARO\obj\Debug\CARO.exe
+C:\Users\dokim\OneDrive\Máy tính\Final Project\Problem 2\CARO\CARO\obj\Debug\CARO.pdb
